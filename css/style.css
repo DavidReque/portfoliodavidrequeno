@@ -325,7 +325,7 @@ body.dark .seccion-clara{
     height: auto;
     max-width: 100%;
     padding: 10px;
-    border-radius: 25px;
+    border-radius: 26px;
     display: block;
     transition: all 0.2 ease;
 }
