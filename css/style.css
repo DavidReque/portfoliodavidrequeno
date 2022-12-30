@@ -322,10 +322,10 @@ body.dark .seccion-clara{
 }
 
 .proyectos img {
-    height: 100%;
-    width: 100%;
+    height: auto;
+    max-width: 100%;
     padding: 10px;
-    border-radius: 10px;
+    border-radius: 25px;
     display: block;
     transition: all 0.2 ease;
 }
