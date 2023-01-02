@@ -402,7 +402,7 @@ body.dark .overlay i {
     background-color: white;
     color: #6E07F3;
     border: #6E07F3 solid 2px;
-    border-radius: 20px;
+    border-radius: 15px;
     transition: all 0.2s ease-in;
 } 
 
