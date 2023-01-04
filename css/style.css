@@ -277,7 +277,7 @@ body.dark .seccion-clara{
 .badges-contenedor {
     font-size: 20px;
     font-weight: bold;
-    margin: 10px 0;
+    margin: 10px 0px;
 }
 
 .badge {
@@ -286,7 +286,7 @@ body.dark .seccion-clara{
 
 .experiencia .columna {
     padding: 20px;
-    border: 2px solid #8080804d;
+    box-shadow: 0 5px 5px 0 rgb(233 240 243 / 50%), 0 0 0 1px #e6ecf8;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -318,7 +318,9 @@ body.dark .seccion-clara{
 }
 
 .seccion-titulo {
-    font-family: 'Chivo Mono', monospace;
+    font-size: 35px;
+    font-weight: 500;
+    margin: 10px 0;
 }
 
 .proyectos img {
