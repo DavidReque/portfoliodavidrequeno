@@ -437,8 +437,8 @@ body.dark .proyectos button:hover {
 .switch::after {
     content: "";
     display: block;
-    width: 30px;
-    height: 30px;
+    width: 32px;
+    height: 32px;
     position: absolute;
     background: #F1F1F1;
     top: 0;
