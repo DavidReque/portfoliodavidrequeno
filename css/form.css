@@ -100,21 +100,22 @@ label span {
 .section-inputs label input {
     width: 100%;
     background-color: #f3f3f4;
-    border: none;
-    padding: 10px 20px;
+    padding: 10px 10px;
     border-radius: 10px;
     outline: none;
     font-size: 14pt;
+    box-shadow: none;
 }
 label input {
     width: 90%;
+    color: #141c3a;
     background-color: #f3f3f4;
-    border: none;
-    padding: 10px 20px;
+    padding: 10px 13px;
     border-radius: 10px;
     outline: none;
+    border: solid 1px #a19a9a;
     font-size: 14pt;
-    transition: background-color 0.2s, border 0.2s, box-shadow 0.2s;
+    box-shadow: none;
 }
 
 label input:hover {
@@ -130,12 +131,13 @@ label input:focus {
 
 textarea {
     background-color: #f3f3f4;
-    border: none;
-    padding: 10px 20px;
+    padding: 10px 10px;
     border-radius: 10px;
     outline: none;
     font-size: 14pt;
-    border: solid 1px rgb(72, 82, 85);
+    border: solid 1px #a19a9a;
+    color: #141c3a;
+    box-shadow: none;
 }
 
 textarea:hover {
