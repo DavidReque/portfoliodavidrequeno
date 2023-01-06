@@ -181,3 +181,7 @@ textarea:focus {
         padding-bottom: 25px;
     }
 }
+
+.footer {
+    height: 25px;
+}
